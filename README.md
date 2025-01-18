@@ -20,4 +20,4 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ArbanaNeziraj/fridge-to-fork.git
+   git clone https://github.com/ArbanaNeziraj/fridge-to-fork.git 
